@@ -1,7 +1,11 @@
 # Attendance_Management_System_2-Gokcehan-Ege-Kaan-Kaan
+
 SE 318 – SOFTWARE VERIFICATION AND VALIDATION – REQUIREMENTS DOCUMENT
+
 PROJECT NAME: Pak Risk SOFTWARE
+
 GROUP MEMBERS: Kaan GÖKÇEK Gökçehan PAK Ege KURAL Kaan ALPER
+
 FUNCTIONAL REQUIREMENTS
 
 -Teacher can see who is permitted-Moderate
